@@ -1,7 +1,7 @@
 # Projet d'Apprentissage Front-End
 
 ## 📝 Description
-Collection de pages web créées pendant mon parcours d'apprentissage du développement front-end. Ce projet contient différentes maquettes et exercices réalisés pour maîtriser HTML et CSS.
+Collection de pages web créées pendant mon parcours d'apprentissage du développement front-end. Ce projet contient différentes maquettes et exercices réalisés pour maîtriser HTML, CSS et le UI Design.
 
 ## 🛠️ Technologies utilisées
 - HTML5
