@@ -50,10 +50,6 @@ a{
     grid-template-rows: 75% 25%;
 }
 
- /* .main div{
-    border: solid #000000;
-}  */
-
 .main-top{
     display: grid;
     grid-template-columns: 55% 45%;
