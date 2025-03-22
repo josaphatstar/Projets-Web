@@ -1,24 +1,29 @@
 # Projet d'Apprentissage Front-End
 
 ## 📝 Description
-Collection de pages web créées pendant mon parcours d'apprentissage du développement front-end. Ce projet contient différentes maquettes et exercices réalisés pour maîtriser HTML, CSS et le UI Design.
+Collection de pages web créées pendant mon parcours d'apprentissage du développement front-end. Ce projet contient différentes maquettes et exercices réalisés pour maîtriser HTML, CSS, JavaScript et les API modernes.
 
 ## 🛠️ Technologies utilisées
 - HTML5
 - CSS3
-- Git
+- JavaScript (ES6+)
 
 ## 📁 Structure du projet
 ```
 html-css/
 ├── web pages/
-│   ├── 20/                 # Page de témoignages
+│   ├── 1/                 
+│   ├── .../
+|   ├── .../
+|   ├── 25/               
 │   └── ... autres projets
+├── img/
+│                  
 └── README.md
 ```
 
 ## ✨ Projets inclus
-1. **Page de Témoignages** (dossier 20)
+1. **Page de Témoignages** 
    - Grille responsive de témoignages
    - Design moderne avec CSS Grid
    - Mise en page adaptative
@@ -27,6 +32,7 @@ html-css/
 
 ### Prérequis
 - Un navigateur web moderne
+- VS Code avec l'extension Live Server
 - Git (optionnel)
 
 ### Instructions
@@ -38,7 +44,11 @@ html-css/
    ```bash
    cd Projets-Web
    ```
-3. Ouvrez les fichiers HTML dans votre navigateur
+3. Lancez avec Live Server :
+   - Ouvrez le projet dans VS Code
+   - Clic droit sur index.html
+   - Sélectionnez "Open with Live Server"
+
 
 ## 👤 Contact
 - GitHub: [@josaphatstar](https://github.com/josaphatstar)
