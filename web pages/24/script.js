@@ -125,6 +125,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
       if (isValid) {
          alert('Form is valid');
+         window.location.href = 'thank.html'
       }
    });
 

@@ -12,6 +12,7 @@ header{
     display: flex;
     height: 80px;
     justify-content: space-between;
+    padding: 0 70px;
 }
 
 .header-last div, .micro{
@@ -25,8 +26,9 @@ header{
     align-items: center
 }
 
-.header-last, .header-first, .header-center{
+.header-last, .header-center{
     display: flex;
+    margin-left: 180px;
 }
 
 .search{

@@ -45,7 +45,7 @@ main{
 }
 
 .spending-day-info{
-   font-size: 27px;
+   font-size: 30px;
    color: hsl(25, 47%, 15%);
    font-weight: 600;
 }
@@ -57,7 +57,7 @@ main{
 
 .chart{
    height: 250px;
-   border-bottom: hsl(27, 66%, 92%)solid;
+   border-bottom: hsl(27, 66%, 92%) solid;
 }
 
 .total{
@@ -89,43 +89,51 @@ main{
    padding: 25px 0;
 }
 
-.chart-top{
+.chart-top {
    display: flex;
    justify-content: space-between;
+   align-items: flex-end; 
+   height: 200px;
+   margin-bottom: 20px;
+}
+
+.chart-top div {
+   width: 11%;
+   min-height: 1px;
+   background-color: hsl(10, 70%, 65%);
+   border-radius: 3px;
+   transition: height 0.3s ease;
+   position: relative;
+   display: block; 
+   cursor: pointer;
+}
+
+.amount-tooltip {
+   position: absolute;
+   top: -35px;
+   left: 50%;
+   transform: translateX(-50%);
+   background-color: hsl(25, 47%, 15%);
+   color: white;
+   padding: 5px 8px;
+   border-radius: 5px;
+   font-size: 14px;
+   opacity: 0;
+   transition: opacity 0.3s ease;
+}
+
+.chart-top div:hover {
+   opacity: 0.8;
+}
+
+.chart-top div:hover .amount-tooltip {
+   opacity: 1;
 }
 
 .chart-down{
-   color: hsl(0, 2%, 54%);
+   color: black;
    display: flex;
    justify-content: space-between;
-   margin: 10px;
-}
-
-#mon, #tue, #wed, #thu, #fri, #sat, #sun{
-   background-color: green;
-   width: 11%;
-}
-
-#mon{
-   height: 50px
-}
-
-#tue{
-   height: 65px
-}
-
-#wed{
-   height: 80px
-}
-
-#fri{
-   height: 45px
-}
-
-#sat{
-   height: 40px
-}
-
-#sun{
-   height: 55px
+   margin: 0 10px;
+   margin-top: 45px;
 }
