@@ -1,0 +1,2 @@
+Voici le composant le plus simple possible, qui accepte une prop et la rend.
+Pour en savoir plus sur les composants, consultez le guide !

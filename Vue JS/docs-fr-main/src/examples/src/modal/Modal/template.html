@@ -1,0 +1,23 @@
+<Transition name="modal">
+  <div v-if="show" class="modal-mask">
+    <div class="modal-container">
+      <div class="modal-header">
+        <slot name="header">header par défaut</slot>
+      </div>
+
+      <div class="modal-body">
+        <slot name="body">body par défaut</slot>
+      </div>
+
+      <div class="modal-footer">
+        <slot name="footer">
+          footer par défaut
+          <button
+            class="modal-default-button"
+            @click="$emit('close')"
+          >OK</button>
+        </slot>
+      </div>
+    </div>
+  </div>
+</Transition>

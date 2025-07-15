@@ -1,0 +1,2 @@
+Ici, nous lions de manière réactive les attributs / propriétés de l'élément à l'état.
+La syntaxe :title est un raccourci de v-bind:title.

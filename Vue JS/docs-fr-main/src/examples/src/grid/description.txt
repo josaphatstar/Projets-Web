@@ -1,0 +1,1 @@
+Exemple de création d'un composant de grille réutilisable et de son utilisation avec des données externes.

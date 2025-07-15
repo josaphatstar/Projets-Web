@@ -56,8 +56,5 @@ npm run dev
 ## 👤 Contact
 - GitHub: [@josaphatstar](https://github.com/josaphatstar)
 
-## 📄 Licence
-Ce projet est sous licence MIT.
-
 ---
 *Créé avec ❤️ par Josaphat*

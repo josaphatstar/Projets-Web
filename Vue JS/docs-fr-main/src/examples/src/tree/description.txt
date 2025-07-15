@@ -1,0 +1,2 @@
+Un composant d'arborescences imbriquées qui se rend lui-même de manière récursive.
+Vous pouvez double-cliquer sur un élément pour le transformer en dossier.

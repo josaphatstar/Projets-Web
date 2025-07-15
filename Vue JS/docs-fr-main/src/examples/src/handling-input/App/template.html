@@ -1,0 +1,22 @@
+<!--
+  Notez que nous n'avons pas besoin de .value à l'intérieur des templates parce que
+  les refs y sont automatiquement "déballées".
+-->
+<h1>{{ message }}</h1>
+
+<!--
+  Liaison à une méthode/fonction.
+  La syntaxe @click est le raccourci de v-on:click.
+-->
+<button @click="reverseMessage">Inverser le message</button>
+
+<!-- Peut également être une expression en ligne -->
+<button @click="message += '!'">Ajouter "!"</button>
+
+<!--
+  Vue fournit également des modificateurs pour les tâches courantes
+  comme e.preventDefault() et e.stopPropagation()
+-->
+<a href="https://vuejs.org" @click.prevent="notify">
+  Un lien avec e.preventDefault()
+</a>
