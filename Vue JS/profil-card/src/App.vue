@@ -1,4 +1,4 @@
-<template>
+return<template>
   <div class="container-principal">
 
     <form @submit.prevent="addProfile" class="form-add-profile">
@@ -249,7 +249,7 @@ border: none;
   border-radius: 6px;
   font-size: 1rem;
   transition: border 0.2s;
-  color: #fff;
+  color: #333;
 }
 
 .form-add-profile input:focus {
