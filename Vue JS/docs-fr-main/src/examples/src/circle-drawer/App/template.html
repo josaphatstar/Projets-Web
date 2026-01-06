@@ -1,0 +1,27 @@
+<svg @click="onClick">
+  <foreignObject x="0" y="40%" width="100%" height="200">
+    <p class="tip">
+      Cliquez sur le canevas pour dessiner un cercle. Cliquez sur un cercle pour le sélectionner.
+      Cliquez avec le bouton droit de la souris sur le canevas pour ajuster le rayon du cercle sélectionné.
+    </p>
+  </foreignObject>
+  <circle
+    v-for="circle in circles"
+    :cx="circle.cx"
+    :cy="circle.cy"
+    :r="circle.r"
+    :fill="circle === selected ? '#ccc' : '#fff'"
+    @click="selected = circle"
+    @contextmenu.prevent="adjust(circle)"
+  ></circle>
+</svg>
+
+<div class="controls">
+  <button @click="undo" :disabled="index <= 0">Précédent</button>
+  <button @click="redo" :disabled="index >= history.length - 1">Suivant</button>
+</div>
+
+<div class="dialog" v-if="adjusting" @click.stop>
+  <p>Ajuster le rayon du cercle situé en ({{ selected.cx }}, {{ selected.cy }})</p>
+  <input type="range" v-model="selected.r" min="1" max="300">
+</div>

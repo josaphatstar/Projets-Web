@@ -1,0 +1,217 @@
+[
+  {
+    "name": "Vehikl",
+    "logo": "vehikl.svg",
+    "flipLogo": true,
+    "intro": "Vehikl connait parfaitement Vue et agira comme une vraie extension de votre équipe. Nous nous concentrons sur l'écriture d'un code propre et facile à maintenir. Nous sommes passionnés par l'amélioration continue, et nous pratiquons quotidiennement le Mob et le Pair Programming.",
+    "description": [
+      "Vehikl est une équipe pour qui l'entraide, la croissance et la livraison importent. Nous appliquons ces valeurs dans tout ce que nous faisons, et avec tous ceux avec qui nous travaillons. Notre objectif est d'être une extension de vos efforts de développement, et de construire des applications web et mobiles exceptionnelles.",
+      "Notre Équipe est très spécialisée et a une connaissance approfondie des frameworks Vue, Laravel, et React. En plus de cela, notre équipe de 75 personnes a travaillé avec toutes les piles technologiques que vous pouvez imaginer. Nous sommes fiers d'être des développeurs axés sur les tests qui se concentrent sur l'écriture d'un code propre et facile à maintenir. Notre équipe est passionnée par l'amélioration continue, et nous pratiquons quotidiennement le Mob et le Pair Programming.",
+      "Nous avons travaillé sur des projets pour un large éventail d'entreprises allant des startups aux plus grosses organisations. Nous formons une seule équipe avec nos clients et nous partageons leurs succès",
+      "Alors, à quoi ressemble le travail avec nous ?",
+      "- Une communication quotidienne avec votre équipe",
+      "- Collaborer avec vous sur la planification hebdomadaire ou bi-hebdomadaire des sprints",
+      "- Démonstrations et rétrospectives à la fin de chaque Sprint",
+      "- Revues collaboratives de PR",
+      "- Des sessions quotidiennes de Pairing et Mobbing",
+      "Nous sommes toujours à la recherche d'opportunités afin d'apprendre de nouvelles choses et affiner nos compétences en utilisant le développement Agile léger, la communication ouverte et la collaboration. Nous combinons la communication individuelle et les valeurs itératives de la méthodologie Agile afin de fournir un code de haute qualité.",
+      "Nous sommes des membres actifs des communautés JavaScript et PHP, et nous aimons collaborer avec d'autres passionnés."
+    ],
+    "proficiencies": ["Vue", "Laravel", "React", "Node.js", "Unity"],
+    "region": ["Amérique du Nord"],
+    "location": ["Ontario, Canada"],
+    "website": {
+      "text": "www.vehikl.com",
+      "url": "https://www.vehikl.com?utm_source=vue_partners_page"
+    },
+    "contact": "go+vuepartner@vehikl.com",
+    "hiring": "https://vehikl.com/jobs/developer/",
+    "platinum": true
+  },
+  {
+    "name": "Passionate People",
+    "logo": "passionatepeople.png",
+    "flipLogo": true,
+    "intro": "Nous vous fournissons des capacités techniques supplémentaires afin de dynamiser vos parcours de transformation numérique grâce à nos équipes d'ingénieurs et de consultants qualifiés. Des ingénieurs JavaScript Full stack prêts à travailler avec vous et vos équipes.",
+    "description": [
+      "Fondée en octobre 2017, Passionate People est la principale société de conseil en JavaScript aux Pays-Bas.",
+      "Notre objectif est d'aider nos clients à accélérer leurs initiatives de transformation numérique à grande échelle, et notre démarche qualité est la plus élevée du secteur.",
+      "Nous avons une large base de clients couvrant des secteurs tels que la FinTech, l'e-commerce, la logistique, la chaîne d'approvisionnement, l'automatisation industrielle, etc. Pour atteindre leurs objectifs numériques et rendre leurs produits évolutifs et sécurisés pour des millions d'utilisateurs, des entreprises comme Albert Heijn Digital, GrandVision, Nationale Nederlanden, Talpa et AKQA nous ont fait confiance pour fournir un excellent travail.",
+      "En plus d'être le principal cabinet de conseil en JavaScript aux Pays-Bas, Passionate People est également fier d'accueillir les plus grandes conférences tech et les plus grands événements communautaires du monde.",
+      "En commençant en février 2018 avec Frontend Love et Vue.js Amsterdam, nous sommes désormais responsables de nombreuses autres conférences en Europe sous la marque Frontend Love : React Live, AngularNL, Vue.js Amsterdam et JS World Conference."
+    ],
+    "proficiencies": ["Vue", "Nuxt", "Node.js", "JAMStack"],
+    "region": ["Europe"],
+    "location": ["Amsterdam, Pays-Bas"],
+    "website": {
+      "text": "passionatepeople.io",
+      "url": "https://passionatepeople.io/"
+    },
+    "contact": "info@passionatepeople.io",
+    "platinum": true
+  },
+  {
+    "name": "Monterail",
+    "logo": "monterail.png",
+    "hero": "monterail-hero.png",
+    "flipLogo": true,
+    "intro": "Monterail est une société polonaise de développement de logiciels variés. Depuis 2010, nous créons des logiciels innovants pour des start-ups, des PME et des entreprises de divers secteurs d'activité dans le monde entier. Nos experts Vue, utilisant des technologies et des frameworks éprouvés, ont livré plus de 30 projets basés sur Vue.",
+    "description": [
+      "Dans une société de conseil polyvalente comme Monterail, vous bénéficiez de toutes les compétences au même endroit. De l'idée à la conception, en passant par la sortie du produit. En fonction de l'étape du cycle de vie du produit, nous guidons les clients dans la création d'applications à partir de zéro ou dans leur évolution rapide.",
+      "Un groupe diversifié d'experts, comprenant des concepteurs de produits, des spécialistes de l'assurance qualité et des analystes commerciaux, se charge de la consultation professionnelle sur la pile technologique et de la validation des idées commerciales. Nous travaillons dans le cadre de la méthodologie Agile, ce qui garantit une communication fluide, et nous visons des partenariats à long terme. Nous avons développé toutes sortes d'applications Vue, des visites virtuelles de biens immobiliers aux plateformes de dons.",
+      "Pourquoi Monterail ?",
+      "- Mentionnée au classement Financial Times 1000 deux fois de suite (2018 & 2019).",
+      "- Reconnue par Deloitte comme l'une des entreprises technologiques à la croissance la plus rapide d'Europe centrale (2016 & 2017).",
+      "- Notée 4,7/5 sur Clutch.",
+      "- Score NPS - 71.",
+      "- Des experts en développement et conception de logiciels avec une solide expérience commerciale.",
+      "- Une équipe expérimentée dans le travail à distance dans un environnement multiculturel.",
+      "- Une estimation budgétaire détaillée reçue en quelques semaines, et non plusieurs mois."
+    ],
+    "proficiencies": [
+      "Vue.js",
+      "Ruby on Rails",
+      "Node.js",
+      "React Native",
+      "Flutter"
+    ],
+    "region": ["Europe"],
+    "website": {
+      "text": "www.monterail.com",
+      "url": "https://www.monterail.com/services/vue-js-development?utm_source=partnership&utm_medium=logo&utm_campaign=Vue"
+    },
+    "contact": "hello@monterail.com",
+    "hiring": "https://www.monterail.com/careers?utm_source=vuejs.org&utm_medium=referral&utm_campaign=partner-hiring-link",
+    "platinum": true
+  },
+  {
+    "name": "Curotec",
+    "logo": "curotec.png",
+    "intro": "Travaillez avec une équipe qui comprend Vue.js de fond en comble. Les équipes de SaaS et d'entreprises font appel à Curotec pour des services d'exécution de projets et de renforcement des développeurs Vue.js spécialisés.",
+    "description": [
+      "Que vous ayez besoin d'une entreprise pour développer votre idée, soutenir une base de code existante ou renforcer votre équipe de développeurs front, nous avons ce qu'il vous faut. Les équipes de produits SaaS et d'entreprise se tournent vers Curotec pour trouver une entreprise capable de faire le travail correctement.",
+      "Nous disposons d'un modèle à tous les niveaux, avec des membres de l'équipe aux États-Unis, en Amérique latine et en Asie du Sud. Nous nous engagerons de manière flexible pour vos besoins en fonction de votre budget, de votre fuseau horaire et des objectifs de votre projet. Nous couvrons également trois domaines principaux, à savoir :",
+      "- Développement de logiciels d'entreprise",
+      "- Développement de produits SaaS",
+      "- Développement de sites web Headless / Jamstack",
+      "Si vous êtes à la recherche d'une équipe de développement front-end axée sur Vue.js qui écrit du code de grande qualité et qui fait avancer les choses, cliquez sur le bouton de contact ci-dessous et contactez-nous !"
+    ],
+    "region": ["Amérique du Nord", "Amérique latine"],
+    "proficiencies": [
+      "Vue.js",
+      "Nuxt",
+      "Laravel",
+      "Headless",
+      "Node.js",
+      "Python",
+      "WordPress"
+    ],
+    "website": {
+      "text": "www.curotec.com",
+      "url": "https://www.curotec.com/services/technologies/vuejs/"
+    },
+    "contact": "sales@curotec.com",
+    "hiring": "https://www.curotec.com/careers?source=vuejs-partner",
+    "platinum": true
+  },
+  {
+    "name": "Redberry",
+    "logo": "redberry.png",
+    "intro": "Nous sommes une agence de conception de logiciels, de développement et de marketing de croissance de Tbilissi, partenaire de Laravel et Vue, et primée à plus de 100 reprises. En 8 ans, nous avons fait passer plus de 300 produits de zéro à héros en utilisant Vue, Laravel, React et React Native pour des clients allant des startups et des institutions gouvernementales aux agences et aux entreprises internationales.",
+    "description": [
+      "Redberry est née en 2014 de l'aventure de quatre amis pour apporter la transformation numérique au business brick-to-mortar en Géorgie. Aujourd’hui, nous sommes plus de 150 et représentons la plus grande agence géorgienne. Nous sommes multifaces à tous points de vue - technologie, services, personnes. Nous accompagnons nos clients tout au long du parcours du produit - de sa conception à sa croissance en passant par son développement. Nous sommes fiers d'avoir une équipe de plus de 100 personnes, primée au niveau international, composée de designers UX/UI légendaires, de développeurs de logiciels, d'ingénieurs DevOps, de chefs de projet, de scrum master, de stratèges numériques, de rédacteurs, de créateurs de contenu et de growth hackers. Appelez-nous votre partenaire numérique couteau suisse si vous voulez ; nous le faisons.",
+      "Bien que nous soyons une agence de premier plan, l'une des plus belles choses qui nous caractérisent est notre emplacement, au sens propre comme au sens figuré. Nous sommes basés en Géorgie (le pays, pas l'État), où l'externalisation informatique est quasiment exempte de taxes. Par conséquent, nos partenaires européens et américains, qu'il s'agisse de start-ups, d'agences ou d'entreprises, bénéficient d'une plus grande marge de manœuvre et de marges plus importantes sur leurs projets. Par chance, nous disposons d'une capacité importante et d'un accès facile aux talents tech locaux en pleine croissance, ce qui fait de nous le partenaire fiable et évolutif de nos clients.",
+      "En plus d'être une maison logicielle officielle Laravel et maintenant Vue Partner, nous sommes une agence de croissance créative partenaire de Google et Facebook, ce qui fait de nous un partenaire idéal et complet pour plus de 80 entreprises de toutes tailles pour développer progressivement leur activité. Cela nous a également valu les titres de meilleure agence de l'année deux fois en 3 ans, en 2019 et 2021. L'activité de notre client est notre activité, c'est pourquoi nous restons orientés vers les résultats à n'importe quel moment, pendant et en dehors des heures de travail, en semaine et le week-end, pour nous assurer que nous fournissons les solutions qui stimulent les résultats de votre entreprise. Cet état d'esprit a façonné notre liste de clients avec des leaders du secteur de la finance, de l'assurance, de l'immobilier, de l'automobile, de l'éducation, des soins de santé, etc.",
+      "En ce qui concerne la méthodologie, la période startup que nous avons connue a imprimé la méthode agile dans notre ADN. Nous avons construit une douzaine de MVP et continué à les développer au fil du temps en fonction de l'évolution constante des besoins de l'entreprise, affinant ainsi notre capacité à optimiser le délai initial de mise sur le marché et la vitesse de développement de tous les projets que nous entreprenons. Nous avons également internalisé et normalisé la mise en place et le maintien d'une couverture de test adéquate de la base de code et l'utilisation régulière des pipelines CI/CD, ce qui rend nos vies et nos codes beaucoup plus faciles à gérer.",
+      "Si vous souhaitez collaborer à l'extension de votre équipe produit, vous pouvez nous contacter via notre site web."
+    ],
+    "region": ["Europe"],
+    "proficiencies": [
+      "Vue",
+      "Laravel",
+      "Node.js",
+      "React",
+      "React Native"
+    ],
+    "website": {
+      "text": "redberry.international",
+      "url": "https://redberry.international/"
+    },
+    "contact": "nini.doggo@redberry.ge"
+  },
+  {
+    "name": "WebReinvent",
+    "logo": "webreinvent.png",
+    "intro": "WebReinvent est une société de développement de logiciels qui fournit une gamme de produits logiciels de bout en bout, des applications en temps réel, des applications SaaS multi-clients, des API à faible latence et des services de développement d'applications mobiles. Nous avons livré des logiciels de niveau MVP à des entreprises de logiciels dans le monde entier, de la startup à la multinationale. Envoyez-nous un courriel et créons votre produit logiciel.",
+    "description": [
+      "WebReinvent est une société de développement de logiciels orientée processus qui fournit une gamme de produits logiciels de bout en bout, des applications en temps réel, des applications SaaS multi-clients, des API à faible latence et des services de développement d'applications mobiles. Notre équipe connaît bien VueJs et son écosystème. Nous avons livré des logiciels de niveau MVP à des entreprises logiciles, de la startup à la multinationale. Outre les projets de nos clients, nous avons développé de nombreux produits open-source basés sur VueJs. Nous sommes fiers de mentionner que nous sommes l'un des rares partenaires officiels de Laravel et Nuxt.",
+      "Notre équipe aime suivre les normes de l'industrie, dont certaines sont la gestion du repo git, la révision du code, les déploiements de versions via CI/CD (DevOps), les tests logiciels automatisés, le maintien d'une documentation technique détaillée, le suivi des performances des applications, etc.",
+      "Envoyez-nous un courriel et créons votre produit logiciel."
+    ],
+    "region": ["Amérique du Nord", "Asie", "Europe"],
+    "proficiencies": ["Vue", "Laravel", "Nuxt", "Ionic", "Node.js"],
+    "website": {
+      "text": "webreinvent.com",
+      "url": "https://webreinvent.com/?utm_source=vuejs.org&utm_medium=website&utm_campaign=partners"
+    },
+    "contact": "we@webreinvent.com",
+    "hiring": "https://webreinvent.com/career?utm_source=vuejs.org&utm_medium=website&utm_campaign=partner-hiring-link"
+  },
+  {
+    "name": "HeroDevs",
+    "logo": "herodevs.png",
+    "flipLogo": true,
+    "hero": "herodevs-hero.png",
+    "intro": "La fin de vie des versions de logiciels open source pose des problèmes considérables aux entreprises. HeroDevs offre deux solutions : (1) Nous fournissons un support permanent pour les logiciels open source en fin de vie, et (2) nous fournissons des services de conseil et d'ingénierie pour aider les entreprises à migrer vers des logiciels open source bénéficiant d'un support.",
+    "description": [
+      "Lorsque les logiciels libres arrivent en fin de vie, vous êtes confronté à une décision difficile : devez-vous consacrer des mois, voire des années, à la migration de votre code, ou risquez-vous de ne pas respecter les réglementations du secteur et les accords de niveau de service de votre entreprise ?",
+      "Chez HeroDevs, nous sommes fiers d'être les experts qui vous aident à naviguer dans les événements de fin de vie de votre pile technologique. Les entreprises qui proposent un support pour les bibliothèques open source s'arrêtent à la fin de leur vie. C'est là que notre valeur ajoutée commence avec nos produits NES (Never-Ending Support). Notre équipe a non seulement fourni à plus de 450 organisations des versions sécurisées et supportées de logiciels open source au-delà de leur fin de vie, mais a également aidé des dizaines d'entreprises à migrer leur base de code vers une pile open source moderne et supportée.",
+      "Avec tous les produits NES, nous offrons : une analyse continue du code source pour détecter les vulnérabilités, une installation en 5 minutes sans quitter votre réseau, une analyse de la violation éventuelle de la propriété intellectuelle dans votre code, et des vérifications de la compatibilité avec les plateformes, les navigateurs et les bibliothèques de tierces parties.",
+      "Besoin de migrer ? HeroDevs peut vous aider dans ce domaine. Engagez notre équipe d'experts pour vous aider à relever les défis liés à la migration de votre code.",
+      "Vous souhaitez en savoir plus ? Retrouvez-nous sur herodevs.com ou envoyez-nous un message à hello@herodevs.com."
+    ],
+    "proficiencies": ["Vue", "Angular", "Migration", "EOL Support"],
+    "region": ["Amérique du Nord"],
+    "website": {
+      "text": "herodevs.com",
+      "url": "https://www.herodevs.com/support/vue"
+    },
+    "platinum": true,
+    "contact": "hello@herodevs.com",
+    "hiring": "https://www.herodevs.com/job-board"
+  },
+  {
+    "name": "Proxify",
+    "logo": "proxify.svg",
+    "flipLogo": true,
+    "intro": "Avec Proxify, vous pouvez embaucher des développeurs Vue.js experts, à un prix équitable et sans risque, en quelques jours seulement. La qualité et l'engagement d'une équipe interne, avec la flexibilité des entrepreneurs. Renforcez votre équipe existante ou créez-en une nouvelle, sans les risques et l'administration d'un emploi permanent.",
+    "description": [
+      "Proxify est un partenaire de bout en bout qui met en relation les entreprises avec des développeurs rigoureusement sélectionnés, et qui vous met en relation avec des développeurs parfaitement adaptés en seulement deux jours.",
+      "Notre réseau compte plus de 4 000 développeurs spécialisés dans plus de 500 domaines techniques. Nous n'acceptons que 2 % des candidats afin de garantir les normes de qualité les plus élevées. Des milliers d'entreprises dans le monde entier font confiance à notre processus de sélection rigoureux.",
+      "- <b>Délai d'embauche</b> : les candidats idéaux sont présentés dans un délai de deux jours seulement.",
+      "- <b>Un membre essentiel de l'équipe, pas seulement un freelance</b> : Les développeurs de Proxify assurent la qualité du code critique pour l'entreprise et s'intègrent parfaitement à la culture de votre équipe. Ils s'intègrent parfaitement à la culture de votre équipe.",
+      "- <b>Des prix équitables</b> : Notre modèle de collaboration avec des talents de haut niveau à distance dans le monde entier est à la fois rentable pour nos clients et lucratif pour nos développeurs. Tout le monde y gagne.",
+      "- <b>Sans risque et adaptable</b> : profitez d'une équipe qui peut s'adapter rapidement à vos priorités, sans les risques et les limites d'un emploi permanent."
+    ],
+    "proficiencies": [
+      "Vue",
+      "Ruby on Rails",
+      "Node.js",
+      "React Native",
+      "Flutter"
+    ],
+    "region": [
+      "Europe"
+    ],
+    "location": [
+      "Europe"
+    ],
+    "website": {
+      "text": "proxify.io",
+      "url": "https://proxify.io?utm_source=partnership&utm_medium=vuejs&utm_campaign=partners-proxify.html"
+    },
+    "contactPage": "https://proxify.io/hire-vuejs?utm_source=partnership&utm_medium=vuejs&utm_campaign=partners-proxify.html",
+    "hiring": "https://career.proxify.io/apply?utm_source=partnership&utm_medium=vuejs&utm_campaign=partners-proxify.html",
+    "platinum": true
+  }
+]

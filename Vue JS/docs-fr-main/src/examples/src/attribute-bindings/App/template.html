@@ -1,0 +1,18 @@
+<p>
+  <span :title="message">
+  Passez votre souris sur moi pendant quelques secondes pour voir mon titre lié de manière dynamique !
+  </span>
+</p>
+
+<!--
+les liaisons de classes ont une prise en charge spéciale pour les objets et les tableaux
+en plus des chaînes de caractères simples
+-->
+<p :class="{ red: isRed }" @click="toggleRed">
+  Ceci devrait être rouge... mais cliquez sur moi pour le changer.
+</p>
+
+<!-- les liaisons de style prennent également en charge les objets et les tableaux -->
+<p :style="{ color }" @click="toggleColor">
+  Cela doit être vert et alterner entre le vert et le bleu lorsque l'on clique dessus.
+</p>
