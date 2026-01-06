@@ -22,9 +22,25 @@ body{
   background-color: hsl(228, 60%, 95%);
 }
 
+
+h1, p {
+  color :  hsl(227, 35%, 25%)
+}
+>>>>>>> 1727222 (finish pricing-component)
+=======
 h1{
   font-size: xx-large;
 	display: block;
 	height: 25px;
 }
+
+h1, p {
+  color :  hsl(227, 35%, 25%)
+}
+=======
+
+h1, p {
+  color :  hsl(227, 35%, 25%)
+}
+>>>>>>> 1727222 (finish pricing-component)
 </style>
