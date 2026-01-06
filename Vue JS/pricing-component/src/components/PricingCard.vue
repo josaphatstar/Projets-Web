@@ -1,4 +1,4 @@
-if<template>
+<template>
 	<div class="card-container">
 		<div class="top">
 			<div class="first">

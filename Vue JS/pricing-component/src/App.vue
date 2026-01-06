@@ -29,7 +29,7 @@ h1, p {
 >>>>>>> 1727222 (finish pricing-component)
 =======
 h1{
-  font-size: xx-large;
+  font-size: xx-large;en
 	display: block;
 	height: 25px;
 }
